@@ -271,16 +271,8 @@ footer {
     background-color: #275BEC;
     color: white;
 }
-/*
-.block {
-    width: 800px;
-    height: 400px;
-    background-color: #656565;
-}
 
-@media (max-width: 800px) {
-   .block {
-    width: 400px;
-    background-color: blue;
-   }
+footer .container {
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
